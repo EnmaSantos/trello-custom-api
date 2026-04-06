@@ -1,0 +1,15 @@
+{
+  "timeZone": "America/Denver",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "CanvasAPILibrary",
+        "version": "0",
+        "libraryId": "1oHMWctRQxtQMJ14uqldsf3Su40TywJND-flmlbpiXwKbgkG0Ihl5oa9U",
+        "developmentMode": true
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
